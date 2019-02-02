@@ -37,19 +37,19 @@ Character creation is likely to follow a class path, potentially large skill tre
 
 Stats used may include:
 
-...Health
+..Health
 
-...Mana
+..Mana
 
-...Strength
+..Strength
 
-...Agility/Dexterity
+..Agility/Dexterity
 
-...Intelligence
+..Intelligence
 
-...Charisma (or eq. social attribute)
+..Charisma (or eq. social attribute)
 
-...Speed
+..Speed
 
 Growth will be important, but we will probably make leveling fairly slow with great benefits.
 
@@ -59,19 +59,19 @@ Money will be around, but never enough to solve all your woes.
 
 Items will include
 
-...Head
+..Head
 
-...Chest
+..Chest
 
-...Hands
+..Hands
 
-...1-2 rings
+..1-2 rings
 
-...Legs
+..Legs
 
-...Boots
+..Boots
 
-...and possibly belts and trinkets/totems
+..and possibly belts and trinkets/totems
 
 Armour will boost your characters toughness, and heavier armour will come with drawbacks. Discussion will follow for details.
 
