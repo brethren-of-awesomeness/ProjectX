@@ -1,6 +1,4 @@
 # ProjectX
-## Why would we call it projectX and give a full description?
-======
 
 ## The Game
 We are making an rpg from scratch. We will continue to define the project as time goes on. 
