@@ -16,11 +16,17 @@ Gameflow: Freeworld with main campaign and possibly side quests
 Game Focus: Adventure over Combat
 
 Features we would like to add:
+
   Fighting 
+
   Theiving 
+
   Questing 
+
   Dungeon Crawling 
+
   Puzzle Solving 
+
   and many, many more. 
 
 Most likely solo
