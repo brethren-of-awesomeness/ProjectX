@@ -20,9 +20,7 @@ window.addEventListener('mouseup', function(event){
 })
 
 function ProcessInput(){
-    for (var i = 0; i < inputStage.length; i++){
-        handle
-    }
+    
 }
 function update(elapsedTime) { /* TODO: All the work*/}
 function render() {}
