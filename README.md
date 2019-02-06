@@ -92,6 +92,6 @@ An IDE will be the best thing to Code on. For that I suggest:
 
 *[Visual Studio Code](https://code.visualstudio.com/ "VS Code")
 
-*[Atom](https://atom.io/) "Atom"
+*[Atom](https://atom.io/ "Atom")
 
 Kyle knows VS Code well, and can help you get started. Getting plugins to help with any language is easy. Its fast to pull up and put back down, and allows debugging (so long as you understand what you are doing)
