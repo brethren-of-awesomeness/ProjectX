@@ -1,0 +1,1 @@
+This is an example of what a branch will look like, how it can be different, and honestly, I'm double checking before I mess up the git guide.
