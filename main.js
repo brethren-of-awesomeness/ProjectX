@@ -1,29 +1,39 @@
-import {demoImport} from './import.js';
-
-demoImport();
-console.log("Hello World");
-
+import {movementInput, movementUpdate, movementRender} from "./character/movement.js";
+import * as G from "./globals.js";
 //init
 let lastTimeStamp = performance.now();
 let keyState = {};
+
+CanvasRenderingContext2D.prototype.clear = function() {
+    this.save();
+    this.setTransform(1,0,0,1,0,0);
+    this.clearRect(0,0, G.canvas.width, G.canvas.height);
+    this.restore();
+}
+
 window.addEventListener('keydown', function (event) {
     keyState[event.keyCode] = true;
 }, true);
 window.addEventListener('keyup', function(event) {
-    keyState[event.keyCode] = false;
+    delete keyState[event.keyCode];
 }, true);
 window.addEventListener('mousedown', function(event){
     keyState[event.keyCode] = true;
 })
 window.addEventListener('mouseup', function(event){
-    keyState[event.keyCode] = false;
+    delete keyState[event.keyCode];
 })
 
 function ProcessInput(){
-    
+    movementInput(keyState);
 }
-function update(elapsedTime) { /* TODO: All the work*/}
-function render() {}
+function update(elapsedTime) { 
+    movementUpdate(elapsedTime);
+}
+function render() {
+    G.context.clear();
+    movementRender();
+}
 
 function gameLoop(time){
     let elapsedTime = time - lastTimeStamp;
