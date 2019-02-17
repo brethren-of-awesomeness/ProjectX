@@ -2,6 +2,8 @@
 These are not law by any means. I have put this here as a place of brain dumping so we can mull over ideas. If you feel a stroke of brilliance has come over you, don't be afraid to add it here. It will be discussed and either added or rejected.
 
 ### Class Ideas
+[Jacob] I am not opposed to choosing a 'class' as you create a character at the beginning of a game. However, I would like us to consider perhaps developing our skill trees to slowly turn us into what we want to be over time.  So there is a branch of the tree that takes you down the path of mage, a branch that takes you down the path of archer etc, but we are not limited to what we can learn and do by a decision we made at the very beginning of creating a character.  So we can cross train and really create a character with the skills we want. This would mean that you can choose to focus on one particular branch of the tree and unlock extremely powerfull skills as your character levels up, or you can cross train on two branches to create a hybrid character, or even cross train on all the branches to have a character who isn't a powerhouse in any area, but is extremely versatile. (of course, you can't go down the path of a fighter for 5 levels and then just unlock all the lvl 5 mage abilities, you'd have to start at the bottom of that tree and work up). So basically, instead of making an arbitrary decision at the beginning of character creation that somehow locks in your destiny and makes you a 'mage' or a 'fighter' for no particular reason, you would start out as an average Joe and begin to learn the skills and abilities of your 'class' little by little.
+
 
 #### Mage Ideas
 ##### Cantrips
